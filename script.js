@@ -100,7 +100,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 3:
            
-            document.getElementById('noBtn').innerHTML = '¿Eres positiva?';
+            document.getElementById('noBtn').innerHTML = 'Suegurita segurita?';
             document.getElementById('noBtn').style.backgroundColor = '#FFADAD';
 
             // Hacer que el botón "Sí" crezca
